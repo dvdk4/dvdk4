@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dvdk4
-- 👀 I’m interested in project management
-- 🌱 I’m currently learning scrum
-- 💞️ I’m looking to collaborate on managing challenging and fast-paced projects
+- 👀 I’m interested in frontend web development
+- 🌱 I’m currently learning html and css
+- 💞️ I’m looking to build my first website
 - 📫 How to reach me twitter.com/dvdk4
 
 <!---
